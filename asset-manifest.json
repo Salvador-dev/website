@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.63edbfda.css",
+    "main.js": "/website/static/js/main.8297bbe0.js",
+    "static/media/the goat [rare af].png": "/website/static/media/the goat [rare af].919ff94fbb988b08d164.png",
+    "static/media/the goat.png": "/website/static/media/the goat.8336fc2dd683b75ccabe.png",
+    "static/media/me.png": "/website/static/media/me.82048c2c2f8bce29affe.png",
+    "static/media/CV.pdf": "/website/static/media/CV.6adede865375db35f8fc.pdf",
+    "index.html": "/website/index.html",
+    "main.63edbfda.css.map": "/website/static/css/main.63edbfda.css.map",
+    "main.8297bbe0.js.map": "/website/static/js/main.8297bbe0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63edbfda.css",
+    "static/js/main.8297bbe0.js"
+  ]
+}
