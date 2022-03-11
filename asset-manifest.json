@@ -1,17 +1,21 @@
 {
   "files": {
     "main.css": "/website/static/css/main.63edbfda.css",
-    "main.js": "/website/static/js/main.dd458374.js",
-    "static/media/the goat [rare af].png": "/website/static/media/the goat [rare af].919ff94fbb988b08d164.png",
+    "main.js": "/website/static/js/main.ce148478.js",
+    "static/media/the goat.png": "/website/static/media/the goat.8336fc2dd683b75ccabe.png",
+    "static/media/project4.png": "/website/static/media/project4.d2881363a8274def30da.png",
     "static/media/me.png": "/website/static/media/me.82048c2c2f8bce29affe.png",
+    "static/media/project2.png": "/website/static/media/project2.c93e5cd48203dcd34115.png",
+    "static/media/project1.png": "/website/static/media/project1.e0be74ac8eb65dbb2648.png",
     "static/media/CV.pdf": "/website/static/media/CV.6adede865375db35f8fc.pdf",
+    "static/media/project3.png": "/website/static/media/project3.851dac599b21f4cd0382.png",
     "static/media/me2.jpg": "/website/static/media/me2.5efe1223be0e2004c9fc.jpg",
     "index.html": "/website/index.html",
     "main.63edbfda.css.map": "/website/static/css/main.63edbfda.css.map",
-    "main.dd458374.js.map": "/website/static/js/main.dd458374.js.map"
+    "main.ce148478.js.map": "/website/static/js/main.ce148478.js.map"
   },
   "entrypoints": [
     "static/css/main.63edbfda.css",
-    "static/js/main.dd458374.js"
+    "static/js/main.ce148478.js"
   ]
 }
