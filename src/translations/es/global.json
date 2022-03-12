@@ -1,0 +1,41 @@
+{
+    "header": {
+        "hello": "Hola, soy",
+        "i-am": "Desarrollador frontend",
+        "scroll": "Ir hacia abajo",
+        "cv": "Descargar CV",
+        "talk": "Hablemos"
+    },
+
+    "about": {
+        "h5": "Conoce más",
+        "h2": "Sobre mí",
+        "exp": "Experiencia",
+        "work": "2 años trabajando",
+        "clients": "Clientes",
+        "wrldw": "10+ internacionales",
+        "prj": "Proyectos",
+        "proj": "10+ completados",
+        "p": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo earum esse, obcaecati quibusdam rerum, tenetur doloremque expedita aperiam cupiditate minus tempore. Optio aliquid quas quo atque, velit pariatur minima corrupti.",
+        "talk": "Hablemos"
+    },
+
+    "experience": {
+        "h5": "Qué habilidades tengo",
+        "h2": "Mi experiencia",
+        "front": "Desarrollo frontend",
+        "html": "Avanzado",
+        "css": "Avanzado",
+        "js": "Intermedio",
+        "boot": "Avanzado",
+        "react": "Intermedio",
+        "wp": "Avanzado",
+        "back": "Desarrollo Backend",
+        "node": "Avanzado",
+        "mysql": "Avanzado",
+        "mongo": "Intermedio",
+        "phy": "Avanzado",
+        "php": "Intermedio"
+
+    }
+}

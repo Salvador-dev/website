@@ -1,0 +1,43 @@
+{
+    "header": {
+        "hello": "Hello i'm",
+        "i-am": "Frontend Developer",
+        "scroll": "Scroll Down",
+        "cv": "Download CV",
+        "talk": "Let's Talk"
+    },
+
+    "about": {
+        "h5": "Get To Know",
+        "h2": "About Me",
+        "exp": "Experience",
+        "work": "2 years working",
+        "clients": "Clients",
+        "wrldw": "10+ worldwide",
+        "prj": "Projects",
+        "proj": "10+ completed",
+        "p": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo earum esse, obcaecati quibusdam rerum, tenetur doloremque expedita aperiam cupiditate minus tempore. Optio aliquid quas quo atque, velit pariatur minima corrupti.",
+        "talk": "Let's Talk"
+    },
+
+    "experience": {
+        "h5": "What Skills I Have",
+        "h2": "My Experience",
+        "front": "Frontend Development",
+        "html": "Experienced",
+        "css": "Experienced",
+        "js": "Intermediate",
+        "boot": "Experienced",
+        "react": "Intermediate",
+        "wp": "Experienced",
+        "back": "Backend Development",
+        "node": "Experienced",
+        "mysql": "Experienced",
+        "mongo": "Intermediate",
+        "phy": "Experienced",
+        "php": "Intermediate"
+
+    }
+
+
+}
