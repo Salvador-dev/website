@@ -37,6 +37,51 @@
         "phy": "Experienced",
         "php": "Intermediate"
 
+    },
+
+    "services": {
+        "h5": "What I Offer",
+        "h2": "Services",
+        "ui": "UI/UX Design",
+        "web": "Web Development",
+        "cont": "Content Creation"
+    },
+
+    "portfolio": {
+        "h5": "My Recent Work",
+        "h2": "Portfolio",
+        "demo": "Live Demo",
+        "pro1": "Simple Ecommerce model site",
+        "pro2": "3D Cube",
+        "pro3": "Art brand website",
+        "pro4": "Photographic portfolio website",
+        "pro5": "NFT ilustration"
+    },
+
+    "testimonials": {
+        "h5": "Review from clients",
+        "h2": "Testimonials"
+
+    },
+
+    "contact": {
+        "h5": "Get In Touch",
+        "h2": "Contact Me",
+        "send":  "Send a message",
+        "name": "Your Full Name",
+        "mail": "Your Email",
+        "mess": "Your Message"
+    },
+
+    "footer": {
+        "home": "Home",
+        "about": "About",
+        "exp": "Experience",
+        "serv": "Services",
+        "port": "Portfolio",
+        "test": "Testimonials",
+        "cont": "Contact",
+        "copy": "Salvador Villá. All rights reserved."
     }
 
 

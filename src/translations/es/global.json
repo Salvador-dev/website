@@ -37,5 +37,50 @@
         "phy": "Avanzado",
         "php": "Intermedio"
 
+    },
+
+    "services": {
+        "h5": "Qué ofrezco",
+        "h2": "Servicios",
+        "ui": "Diseño UI/UX",
+        "web": "Desarrollo web",
+        "cont": "Creacion de contenido"
+    },
+
+    "portfolio": {
+        "h5": "Mi trabajo más reciente",
+        "h2": "Portafolio",
+        "demo": "Ver en vivo",
+        "pro1": "Modelo simple de sitio Ecommerce",
+        "pro2": "Cubo 3D",
+        "pro3": "Sitio web sobre arte",
+        "pro4": "Portafolio web de fotografía",
+        "pro5": "Ilustración NFT"
+    },
+
+    "testimonials": {
+        "h5": "Reseñas de clientes",
+        "h2": "Testimonios"
+
+    },
+
+    "contact": {
+        "h5": "Dónde encontrarme",
+        "h2": "Contacto",
+        "send":  "Envíame un mensaje",
+        "name": "Tu nombre completo",
+        "mail": "Tu Email",
+        "mess": "Tu mensaje"
+    },
+
+    "footer": {
+        "home": "Inicio",
+        "about": "Sobre Mí",
+        "exp": "Experiencia",
+        "serv": "Servicios",
+        "port": "Portafolio",
+        "test": "Testimonios",
+        "cont": "Contacto",
+        "copy": "Salvador Villá. Todos los derechos reservados."
     }
 }

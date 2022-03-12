@@ -54,6 +54,36 @@ header {
 
 }
 
+.lng-container {
+    position: absolute;
+    display: flex;
+    top: 1%;
+    background: rgba(0,0,0,0.3);
+    width: max-content;
+    padding: 0.7rem 1.7rem;
+    z-index: 2;
+    left: 50%;
+    transform: translateX(-50%);
+    gap: 0.8rem;
+    border-radius: 1rem;
+    backdrop-filter: blur(15px);
+}
+
+.lng-container button {
+    background: transparent;
+    padding: 0.9rem;
+    border-radius: 20%;
+    display: flex;
+    color: var(--color-light);
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+
+.lng-container button:hover {
+    background: rgba(0,0,0,0.3);
+
+}
+
 /* ************ SCROLL DOWN ************ */
 
 .scroll__down {

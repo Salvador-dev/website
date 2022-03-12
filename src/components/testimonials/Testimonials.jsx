@@ -1,6 +1,7 @@
 import React from 'react'
 import './testimonials.css'
 import AVTR1 from '../../assets/me.png'
+import { useTranslation } from "react-i18next"
 
 // import Swiper core and required modules
 import { Pagination } from 'swiper';
@@ -14,32 +15,38 @@ import 'swiper/css/pagination';
 import 'swiper/css/scrollbar';
 
 
-const data = [
-  {
-    avatar: AVTR1,
-    name: 'Tina Snow',
-    review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit quidem amet accusantium. Corrupti quas magni optio hic repellat quae autem explicabo similique, numquam nisi magnam neque maxime vitae? Consequatur, repellendus!'
-  },{
-    avatar: AVTR1,
-    name: 'Tina Snow',
-    review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit quidem amet accusantium. Corrupti quas magni optio hic repellat quae autem explicabo similique, numquam nisi magnam neque maxime vitae? Consequatur, repellendus!'
-  },{
-    avatar: AVTR1,
-    name: 'Tina Snow',
-    review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit quidem amet accusantium. Corrupti quas magni optio hic repellat quae autem explicabo similique, numquam nisi magnam neque maxime vitae? Consequatur, repellendus!'
-  },{
-    avatar: AVTR1,
-    name: 'Tina Snow',
-    review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit quidem amet accusantium. Corrupti quas magni optio hic repellat quae autem explicabo similique, numquam nisi magnam neque maxime vitae? Consequatur, repellendus!'
-  },
-  
-]
+
+
 
 const Testimonials = () => {
+
+  const [t, i18n] = useTranslation("global");
+
+  const data = [
+    {
+      avatar: AVTR1,
+      name: 'Tina Snow',
+      review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit quidem amet accusantium. Corrupti quas magni optio hic repellat quae autem explicabo similique, numquam nisi magnam neque maxime vitae? Consequatur, repellendus!'
+    },{
+      avatar: AVTR1,
+      name: 'Tina Snow',
+      review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit quidem amet accusantium. Corrupti quas magni optio hic repellat quae autem explicabo similique, numquam nisi magnam neque maxime vitae? Consequatur, repellendus!'
+    },{
+      avatar: AVTR1,
+      name: 'Tina Snow',
+      review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit quidem amet accusantium. Corrupti quas magni optio hic repellat quae autem explicabo similique, numquam nisi magnam neque maxime vitae? Consequatur, repellendus!'
+    },{
+      avatar: AVTR1,
+      name: 'Tina Snow',
+      review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit quidem amet accusantium. Corrupti quas magni optio hic repellat quae autem explicabo similique, numquam nisi magnam neque maxime vitae? Consequatur, repellendus!'
+    },
+    
+  ]
+
   return (
     <section id='testimonials'>
-      <h5>Review from clients</h5>
-      <h2>Testimonials</h2>
+      <h5>{t("testimonials.h5")}</h5>
+      <h2>{t("testimonials.h2")}</h2>
 
       <Swiper className='container testimonials__container'
        // install Swiper modules
