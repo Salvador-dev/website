@@ -4,7 +4,9 @@
         "i-am": "Frontend Developer",
         "scroll": "Scroll Down",
         "cv": "Download CV",
-        "talk": "Let's Talk"
+        "talk": "Let's Talk",
+        "translate1": "Ver en español",
+        "translate2": "See in english" 
     },
 
     "about": {

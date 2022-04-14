@@ -4,7 +4,9 @@
         "i-am": "Desarrollador frontend",
         "scroll": "Ir hacia abajo",
         "cv": "Descargar CV",
-        "talk": "Hablemos"
+        "talk": "Hablemos",
+        "translate1": "Ver en español",
+        "translate2": "See in english" 
     },
 
     "about": {

@@ -11,8 +11,8 @@ const Header = () => {
   return (
     <header>
       <div className='lng-container'>
-        <button onClick={()=> i18n.changeLanguage("es")} className="es">ES</button>
-        <button onClick={()=> i18n.changeLanguage("en")} className="en">EN</button>
+        <a onClick={()=> i18n.changeLanguage("es")} className="es">{t("header.translate1")}</a>
+        <a onClick={()=> i18n.changeLanguage("en")} className="en">{t("header.translate2")}</a>
       </div>
       
       <div className="container header__container">
