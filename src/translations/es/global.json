@@ -18,21 +18,21 @@
         "wrldw": "10+ internacionales",
         "prj": "Proyectos",
         "proj": "10+ completados",
-        "p": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo earum esse, obcaecati quibusdam rerum, tenetur doloremque expedita aperiam cupiditate minus tempore. Optio aliquid quas quo atque, velit pariatur minima corrupti.",
+        "p": "¿Que tal? Soy estudiante de Ingeniería de sistemas en la Universidad Santa María, también soy programador y desarrollador web especializado en el área Frontend. Actualmente realizo proyectos como freelancer. ",
         "talk": "Hablemos"
     },
 
     "experience": {
         "h5": "Qué habilidades tengo",
         "h2": "Mi experiencia",
-        "front": "Desarrollo frontend",
+        "front": "Desarrollo Web Frontend",
         "html": "Avanzado",
         "css": "Avanzado",
         "js": "Intermedio",
         "boot": "Avanzado",
         "react": "Intermedio",
         "wp": "Avanzado",
-        "back": "Desarrollo Backend",
+        "back": "Otros lenguajes/softwares que manejo",
         "node": "Avanzado",
         "mysql": "Avanzado",
         "mongo": "Intermedio",
@@ -44,9 +44,41 @@
     "services": {
         "h5": "Qué ofrezco",
         "h2": "Servicios",
-        "ui": "Diseño UI/UX",
-        "web": "Desarrollo web",
-        "cont": "Creacion de contenido"
+        "ui": {
+
+            "ui0": "¿Por qué invertir en una página web?",
+            "ui1": "Actualmente el mundo digital ha crecido a pasos agigantados, a raíz de la pandemia del covid-19, desde el 2020 el planeta se adelantado 6 años en el mundo digital.",
+            "ui2": "Recuerda que un sitio web no es un gasto, sino una inversión para tu negocio. Para que su inversión valga, debes asegurarte de que tu sitio web esté diseñado profesionalmente, funcione completamente con una velocidad de descarga rápida y esté repleto de contenido excelente. ",
+            "ui3": "Entre los beneficios más importantes de tener una página web tenemos: ",
+            "ui4": "Mejora la credibilidad empresarial",
+            "ui5": "Mejora tu presencia online",
+            "ui6": "Manera eficiente de promover tu negocio",
+            "ui7": "Expone tu trabajo",
+            "ui8": "Profesionaliza tu marca",
+            "ui9": "Amplía el alcance y la cobertura del mercado",
+            "ui10": "Mantente un paso adelante de la competencia",
+            "ui11": "Generar clientes potenciales"
+        },
+
+       
+        "web": {
+            "web0": "Pero… ¿qué es una página web?",
+            "web1": "Una página web es un documento o información electrónica capaz de contener texto, sonido, vídeo, programas, enlaces, imágenes, hipervínculos y muchas otras cosas, adaptada para la llamada World Wide Web (internet), y que puede ser accedida mediante un navegador web (como una computadora, teléfono inteligente, etc).",
+            "web2": "Dicha página web es alojada en un hosting y es accesible mediante un dominio web.",
+            "web3": "Concretamente hosting es el espacio de almacenamiento donde se alojan los archivos que componen tu sitio web, y el dominio es el nombre con el que tus visitantes accederán a él."
+        },
+
+        "cont": {
+            "cont0": "¿Que contiene mi servicio de creación de sitio web?",
+            "cont1": "Servicio de hosting.",
+            "cont2": "Dominio personalizado para el sitio web.",
+            "cont3": "Página o sitio web totalmente personalizado para el cliente.",
+            "cont4": "Certificado SSL (seguridad para el sitio web).",
+            "cont5": "Desde 1 hasta 5 secciones diferentes dentro del sitio web.",
+            "cont6": "Sistema autogestionable.",
+            "cont7": "1 año de garantía."
+
+        }
     },
 
     "portfolio": {

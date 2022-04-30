@@ -108,5 +108,27 @@ header {
     .header__socials, .scroll__down {
         display: none;
     }
+
+    .lng-container {
+        position: absolute;
+        display: flex;
+        top: 3%;
+        background: rgba(0,0,0,0.3);
+        width: max-content;
+        padding: 0.7rem 1.7rem;
+        z-index: 2;
+        left: 50%;
+        transform: translateX(-50%);
+        gap: 0.8rem;
+        border-radius: 1rem;
+        backdrop-filter: blur(15px);
+        justify-content: space-between;
+        
+    }
+    
+    .lng-container a {
+        cursor: pointer;
+        margin: 0 1rem;
+    }
 }
 

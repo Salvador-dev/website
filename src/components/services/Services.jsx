@@ -14,111 +14,114 @@ const Services = () => {
       <div className='container services__container'>
         <article className='service'>
           <div className='service__head'>
-            <h3>{t("services.ui")}</h3>
+            <h3>{t("services.ui.ui0")}</h3>
             </div>
 
             <ul className='service__list'>
               <li>
-                <BiCheck className='service__list-icon' />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>{t("services.ui.ui3")}</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon' />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>{t("services.ui.ui4")}</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon' />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>{t("services.ui.ui5")}</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon' />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>{t("services.ui.ui6")}</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon' />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>{t("services.ui.ui7")}</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon' />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>{t("services.ui.ui8")}</p>
               </li>
+              <li>
+                <BiCheck className='service__list-icon' />
+                <p>{t("services.ui.ui9")}</p>
+              </li>
+              <li>
+                <BiCheck className='service__list-icon' />
+                <p>{t("services.ui.ui10")}</p>
+              </li>
+              <li>
+                <BiCheck className='service__list-icon' />
+                <p>{t("services.ui.ui11")}</p>
+              </li>
+              
               </ul>
 
         </article>
 
-        {/* END OF UI/UX */}
+        {/* END OF 1ST SERVICE CARD */}
 
         <article className='service'>
           <div className='service__head'>
-            <h3>{t("services.web")}</h3>
+            <h3>{t("services.web.web0")}</h3>
             </div>
 
             <ul className='service__list'>
               <li>
-                <BiCheck className='service__list-icon' />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>{t("services.web.web1")}</p>
               </li>
               <li>
-                <BiCheck className='service__list-icon' />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>{t("services.web.web2")}</p>
               </li>
               <li>
-                <BiCheck className='service__list-icon' />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>{t("services.web.web3")}</p>
               </li>
-              <li>
-                <BiCheck className='service__list-icon' />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              </li>
-              <li>
-                <BiCheck className='service__list-icon' />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              </li>
-              <li>
-                <BiCheck className='service__list-icon' />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              </li>
+              
               </ul>
 
         </article>
 
-        {/* WEB DEVELOPMENT*/}
+        {/* END OF 2ND SERVICE CARD*/}
 
         <article className='service'>
           <div className='service__head'>
-            <h3>{t("services.cont")}</h3>
+            <h3>{t("services.cont.cont0")}</h3>
             </div>
 
             <ul className='service__list'>
               <li>
                 <BiCheck className='service__list-icon' />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>{t("services.cont.cont1")}</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon' />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>{t("services.cont.cont2")}</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon' />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>{t("services.cont.cont3")}</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon' />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>{t("services.cont.cont4")}</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon' />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>{t("services.cont.cont5")}</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon' />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>{t("services.cont.cont6")}</p>
               </li>
+              <li>
+                <BiCheck className='service__list-icon' />
+                <p>{t("services.cont.cont7")}</p>
+              </li>
+              
               </ul>
 
         </article>
 
-        {/* END OF CONTENT CREATION*/}
+        {/* END OF 3RD SERVICE CARD*/}
 
 
       </div>

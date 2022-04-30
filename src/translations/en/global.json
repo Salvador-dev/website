@@ -18,21 +18,21 @@
         "wrldw": "10+ worldwide",
         "prj": "Projects",
         "proj": "10+ completed",
-        "p": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo earum esse, obcaecati quibusdam rerum, tenetur doloremque expedita aperiam cupiditate minus tempore. Optio aliquid quas quo atque, velit pariatur minima corrupti.",
+        "p": "Hey, what's up? I am a Systems Engineering student at the Santa María University, I am also a programmer and web developer specialized in the Frontend area. Currently I do projects as a freelancer.",
         "talk": "Let's Talk"
     },
 
     "experience": {
         "h5": "What Skills I Have",
         "h2": "My Experience",
-        "front": "Frontend Development",
+        "front": "Frontend Web Development",
         "html": "Experienced",
         "css": "Experienced",
         "js": "Intermediate",
         "boot": "Experienced",
         "react": "Intermediate",
         "wp": "Experienced",
-        "back": "Backend Development",
+        "back": "Other languages/softwares i know",
         "node": "Experienced",
         "mysql": "Experienced",
         "mongo": "Intermediate",
@@ -44,9 +44,40 @@
     "services": {
         "h5": "What I Offer",
         "h2": "Services",
-        "ui": "UI/UX Design",
-        "web": "Web Development",
-        "cont": "Content Creation"
+        "ui": {
+
+            "ui0": "Why invest in a web page?",
+            "ui1": "Currently the digital world has grown by leaps and bounds, as a result of the covid-19 pandemic, since 2020 the planet has advanced 6 years in the digital world.",
+            "ui2": "Remember that a website is not an expense, but an investment for your business. To make your investment worthwhile, you need to make sure your website is professionally designed, fully functional with fast download speeds, and packed with great content.",
+            "ui3": "Among the most important benefits of having a website we have:",
+            "ui4": "Improve business credibility",
+            "ui5": "Improve your online presence",
+            "ui6": "Efficient way to promote your business",
+            "ui7": "Expose your work",
+            "ui8": "Professionalize your brand",
+            "ui9": "Expands market reach and coverage",
+            "ui10": "Stay one step ahead of the competition",
+            "ui11": "Generate leads"
+        },
+
+        "web": {
+            "web0": "But… what is a web page?",
+            "web1": "A web page is an electronic document or information capable of containing text, sound, video, programs, links, images, hyperlinks and many other things, adapted for the so-called World Wide Web (internet), and that can be accessed through a web browser. (such as a computer, smartphone, etc).",
+            "web2": "Said web page is hosted on a hosting and is accessible through a web domain.",
+            "web3": "Specifically, hosting is the storage space where the files that make up your website are housed, and the domain is the name with which your visitors will access it."
+        },
+        
+        "cont": {
+            "cont0": "What does my website creation service contain?",
+            "cont1": "Hosting service.",
+            "cont2": "Custom domain for the website.",
+            "cont3": "Fully customized page or website for the client.",
+            "cont4": "SSL certificate (security for the website).",
+            "cont5": "From 1 to 5 different sections within the website.",
+            "cont6": "Self-managed system.",
+            "cont7": "1 year warranty."
+
+        }
     },
 
     "portfolio": {
