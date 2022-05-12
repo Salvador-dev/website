@@ -10,6 +10,8 @@ import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
 
 const App = () => {
+    //<Testimonials />
+
   return (
     <>
       <Header />
@@ -18,7 +20,6 @@ const App = () => {
       <Experience />
       <Services />
       <Portfolio />
-      <Testimonials />
       <Contact />
       <Footer />
     </>
