@@ -6,6 +6,7 @@ import IMG2 from '../../assets/project2.png'
 import IMG3 from '../../assets/project3.png'
 import IMG4 from '../../assets/project4.png'
 import IMG5 from '../../assets/ATshop.png'
+import IMG6 from '../../assets/resSamplePage.png'
 
 
 
@@ -48,6 +49,13 @@ const Portfolio = () => {
     title: t("portfolio.pro5"),
     github: '',
     demo: 'https://atbienestarbelleza.com/shop/'
+  },
+  {
+    id: 6,
+    image: IMG6,
+    title: t("portfolio.pro6"),
+    github: 'https://github.com/Salvador-dev/RestaurantSamplePage',
+    demo: 'https://salvador-dev.github.io/RestaurantSamplePage/'
   }
 ]
 
@@ -61,7 +69,7 @@ const Portfolio = () => {
       {
           data.map(({id, image, title, github,demo}) => {
             return (
-              <article className='portfolio__item' key={id}>
+              <article className="portfolio__item" key={id}>
           <div className='portfolio__item-image'>
             <img src={image} alt={title} />
           </div>
@@ -75,7 +83,6 @@ const Portfolio = () => {
           })
         }
 
-      
         
 
 
