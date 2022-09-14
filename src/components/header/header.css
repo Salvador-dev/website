@@ -54,6 +54,24 @@ header {
 
 }
 
+.me .overlay{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 1;
+    background: url(../../assets/matrix.gif);
+    background-size: cover;
+    border-radius: 12rem 12rem 0 0;
+    top: 0;
+    left: 0;
+}
+
+.me img{
+    position: relative;
+    display: block;
+    z-index: 2;
+}
+
 .lng-container {
     position: absolute;
     display: flex;

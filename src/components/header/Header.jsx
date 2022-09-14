@@ -24,6 +24,7 @@ const Header = () => {
         <HeaderSocials/>
 
         <div className="me">
+          <div className='overlay'></div>
           <img src={ME} alt="" />
         </div>
 
