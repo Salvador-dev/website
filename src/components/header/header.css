@@ -89,9 +89,18 @@ header {
     
 }
 
-.lng-container a {
+.lng-container button {
     cursor: pointer;
+    font-size: 1rem;
     margin: 0 1rem;
+    background: transparent;
+    color: var(--color-primary);
+    transition: all .5s ease;
+    line-height: 2rem;
+}
+
+.lng-container button:hover {
+    color: #fff;
 }
 
 /* ************ SCROLL DOWN ************ */
@@ -144,7 +153,7 @@ header {
         
     }
     
-    .lng-container a {
+    .lng-container button {
         cursor: pointer;
         margin: 0 1rem;
     }
