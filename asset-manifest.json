@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.2f96f1d1.css",
-    "main.js": "/website/static/js/main.75e03056.js",
+    "main.css": "/website/static/css/main.3a9b823a.css",
+    "main.js": "/website/static/js/main.8a043d33.js",
     "static/media/resSamplePage.png": "/website/static/media/resSamplePage.b700e20ff7c2fb6599ae.png",
-    "static/media/overlay.gif": "/website/static/media/overlay.a817bb2046fc9cd09278.gif",
+    "static/media/binary.gif": "/website/static/media/binary.a817bb2046fc9cd09278.gif",
     "static/media/me.png": "/website/static/media/me.82048c2c2f8bce29affe.png",
+    "static/media/me3.png": "/website/static/media/me3.2411da584971ef92e167.png",
     "static/media/project2.png": "/website/static/media/project2.add6b95f59938ee794c9.png",
     "static/media/project1.png": "/website/static/media/project1.e0be74ac8eb65dbb2648.png",
     "static/media/project4.png": "/website/static/media/project4.d4b6149410f3f8819c33.png",
     "static/media/CV.pdf": "/website/static/media/CV.6adede865375db35f8fc.pdf",
     "static/media/project3.png": "/website/static/media/project3.771e8c69bfa29793050c.png",
     "static/media/ATshop.png": "/website/static/media/ATshop.b08eb87db03ce9a61d88.png",
-    "static/media/me2.jpg": "/website/static/media/me2.5efe1223be0e2004c9fc.jpg",
+    "static/media/yo.jpg": "/website/static/media/yo.9d78099d3c2a308da609.jpg",
     "index.html": "/website/index.html",
-    "main.2f96f1d1.css.map": "/website/static/css/main.2f96f1d1.css.map",
-    "main.75e03056.js.map": "/website/static/js/main.75e03056.js.map"
+    "main.3a9b823a.css.map": "/website/static/css/main.3a9b823a.css.map",
+    "main.8a043d33.js.map": "/website/static/js/main.8a043d33.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f96f1d1.css",
-    "static/js/main.75e03056.js"
+    "static/css/main.3a9b823a.css",
+    "static/js/main.8a043d33.js"
   ]
 }
