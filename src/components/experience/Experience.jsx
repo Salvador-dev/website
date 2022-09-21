@@ -72,13 +72,13 @@ const Experience = () => {
           <h3>{t("experience.back")}</h3>
           <div className="experience__content">
 
-            <article className='experience__details'>
+            {/* <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>JSON</h4>
                 <small className='text-light'>{t("experience.node")}</small>
               </div>
-            </article>
+            </article> */}
 
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
@@ -88,13 +88,13 @@ const Experience = () => {
               </div>
             </article>
 
-            <article className='experience__details'>
+            {/* <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Phyton</h4>
                 <small className='text-light'>{t("experience.phy")}</small>
               </div>
-            </article>
+            </article> */}
 
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
