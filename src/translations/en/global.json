@@ -84,12 +84,16 @@
         "h5": "My Recent Work",
         "h2": "Portfolio",
         "demo": "Live Demo",
+        "apk": "Request APK",
         "pro1": "Simple Ecommerce model site",
         "pro2": "3D Cube",
         "pro3": "Art brand website",
         "pro4": "Photographic portfolio website",
         "pro5": "Beauty and wellness products online shop",
-        "pro6": "Restaurant sample page"
+        "pro6": "Restaurant sample page",
+        "pro7": "3D Card",
+        "pro8": "Task list App",
+        "pro9": "AI image generator App"
     },
 
     "testimonials": {
@@ -115,7 +119,7 @@
         "port": "Portfolio",
         "test": "Testimonials",
         "cont": "Contact",
-        "copy": "Salvador Villá. All rights reserved."
+        "copy": "Salvador Villa. All rights reserved."
     }
 
 

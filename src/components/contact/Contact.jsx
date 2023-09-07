@@ -38,7 +38,7 @@ const Contact = () => {
             <MdOutlineEmail className='contact__option-icon'/>
             <h4>Email</h4>
             <h5></h5>
-            <a href="mailto: rodavlasxp@gmail.com" target="_blank">{t("contact.send")}</a>
+            <a href="mailto: salvadorvilla0810@gmail.com" target="_blank">{t("contact.send")}</a>
           </article>
 
           <article className="contact__option">
@@ -52,7 +52,7 @@ const Contact = () => {
             <BsWhatsapp className='contact__option-icon'/>
             <h4>WhatsApp</h4>
             <h5></h5>
-            <a href="https://api.whatsapp.com/send?phone=+584241416875" target="_blank">{t("contact.send")}</a>
+            <a href="https://api.whatsapp.com/send?phone=584241416875" target="_blank">{t("contact.send")}</a>
           </article>
         </div>
 
@@ -61,7 +61,9 @@ const Contact = () => {
           <input type="text" name='name' placeholder={t("contact.name")} required />
           <input type="email" name='email' placeholder={t("contact.mail")} required />
           <textarea name="message"  rows="7" placeholder={t("contact.mess")} required></textarea>
-          <button type='submit' className='btn btn-primary'>{t("contact.send")}</button>
+          
+          <a href="mailto: salvadorvilla0810@gmail.com" target="_blank"><button className='btn btn-primary'>{t("contact.send")}</button></a>
+
 
         </form>
       </div>

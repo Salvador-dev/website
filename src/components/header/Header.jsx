@@ -17,7 +17,7 @@ const Header = () => {
       
       <div className="container header__container">
         <h5>{t("header.hello")}</h5>
-        <h1>Salvador Villá</h1>
+        <h1>Salvador Villa</h1>
         <h5 className='text-ligth'>{t("header.i-am")}</h5>
         
         <CTA/>

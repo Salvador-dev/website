@@ -85,12 +85,17 @@
         "h5": "Mi trabajo más reciente",
         "h2": "Portafolio",
         "demo": "Ver en vivo",
+        "apk": "Solicitar APK",
         "pro1": "Modelo simple de sitio Ecommerce",
         "pro2": "Cubo 3D",
         "pro3": "Sitio web sobre arte",
         "pro4": "Portafolio web de fotografía",
         "pro5": "Tienda online de productos de belleza y salud.",
-        "pro6": "Modelo de pagina para restaurante"
+        "pro6": "Modelo de pagina para restaurante",
+        "pro7": "Carta 3D",
+        "pro8": "App de lista de tareas",
+        "pro9": "App generadora de imagenes IA"
+
     },
 
     "testimonials": {
@@ -116,6 +121,6 @@
         "port": "Portafolio",
         "test": "Testimonios",
         "cont": "Contacto",
-        "copy": "Salvador Villá. Todos los derechos reservados."
+        "copy": "Salvador Villa. Todos los derechos reservados."
     }
 }
