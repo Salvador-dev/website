@@ -67,10 +67,12 @@ header {
 }
 
 .me img{
-    position: relative;
+    position: absolute;
     display: block;
     z-index: 2;
-    transform: rotate(5deg);
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
 
 .lng-container {
@@ -159,12 +161,5 @@ header {
         margin: 0 1rem;
     }
 
-    .me img{
-        width: 180%;
-        height: auto;
-        right: 30%;
-        bottom: 0%;
-        
-    }
 }
 

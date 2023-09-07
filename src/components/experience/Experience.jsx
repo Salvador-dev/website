@@ -60,7 +60,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
                 <div>
-                  <h4>WooCommerce</h4>
+                  <h4>Angular</h4>
                   <small className='text-light'>{t("experience.boot")}</small>
                 </div>
             </article>
@@ -107,7 +107,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>C++</h4>
+                <h4>C/C++</h4>
                 <small className='text-light'>{t("experience.mongo")}</small>
               </div>
             </article>
@@ -115,7 +115,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>C</h4>
+                <h4>Node JS</h4>
                 <small className='text-light'>{t("experience.wp")}</small>
               </div>
             </article>
