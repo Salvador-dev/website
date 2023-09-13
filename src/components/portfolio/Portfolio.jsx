@@ -10,6 +10,8 @@ import IMG6 from '../../assets/project6.png'
 import IMG7 from '../../assets/project7.png'
 import IMG8 from '../../assets/project8.png'
 import IMG9 from '../../assets/project9.png'
+import IMG10 from '../../assets/project10.png'
+
 
 
 
@@ -90,6 +92,15 @@ const Portfolio = () => {
     apk: 'https://api.whatsapp.com/send?phone=584241416875',
     demo: ''
 
+  },
+  {
+    id: 10,
+    image: IMG10,
+    title: t("portfolio.pro10"),
+    github: '',
+    apk: '',
+    demo: 'https://asclemedical.com/'
+
   }
 ]
 
@@ -111,7 +122,7 @@ const Portfolio = () => {
           <div className='portfolio__item-cta'>
             {github.length > 0 ? <a href={github} className='btn' target='_blank' >Github</a> : '' }
             {demo.length > 0 ? <a href={demo} className='btn btn-primary' target='_blank' >{t("portfolio.demo")}</a> : '' }
-            {apk.length > 0 ? <a href={apk} download className='btn'>{t("portfolio.apk")}</a> : '' }
+            {apk.length > 0 ? <a href={apk} download className='btn btn-primary'>{t("portfolio.apk")}</a> : '' }
 
           </div>
         </article>
