@@ -86,6 +86,7 @@
         "h2": "Portafolio",
         "demo": "Ver en vivo",
         "apk": "Solicitar APK",
+        "exe": "Descargar .EXE",
         "pro1": "Modelo simple de sitio Ecommerce",
         "pro2": "Cubo 3D",
         "pro3": "Sitio web sobre arte",
@@ -95,8 +96,10 @@
         "pro7": "Carta 3D",
         "pro8": "App de lista de tareas",
         "pro9": "App generadora de imagenes IA",
-        "pro10": "Landing page para tienda de insumos médicos"
-
+        "pro10": "Landing page para tienda de insumos médicos",
+        "pro11": "Sistema contable en lenguaje C",
+        "pro12": "Simulador de maquina tragamonedas en lenguaje C",
+        "pro13": "Juego de sudoku en lenguaje C"
 
     },
 

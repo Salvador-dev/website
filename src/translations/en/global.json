@@ -85,6 +85,7 @@
         "h2": "Portfolio",
         "demo": "Live Demo",
         "apk": "Request APK",
+        "exe": "Download .EXE",
         "pro1": "Simple Ecommerce model site",
         "pro2": "3D Cube",
         "pro3": "Art brand website",
@@ -94,7 +95,10 @@
         "pro7": "3D Card",
         "pro8": "Task list App",
         "pro9": "AI image generator App",
-        "pro10": "Medical shop landing page"
+        "pro10": "Medical shop landing page",
+        "pro11": "Accounting system in C language",
+        "pro12": "Slot machine simulator in C language",
+        "pro13": "Sudoku game in C language"
 
     },
 

@@ -99,8 +99,8 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>PHP</h4>
-                <small className='text-light'>{t("experience.php")}</small>
+                <h4>GIT</h4>
+                <small className='text-light'>{t("experience.wp")}</small>
               </div>
             </article>
 
@@ -108,7 +108,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>C/C++</h4>
-                <small className='text-light'>{t("experience.mongo")}</small>
+                <small className='text-light'>{t("experience.wp")}</small>
               </div>
             </article>
 
