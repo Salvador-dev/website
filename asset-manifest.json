@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/website/static/css/main.fb7eb8e4.css",
-    "main.js": "/website/static/js/main.15431277.js",
-    "static/media/CV.pdf": "/website/static/media/CV.4f484dd7b15e0d285bfc.pdf",
+    "main.js": "/website/static/js/main.813fdd64.js",
     "static/media/project7.png": "/website/static/media/project7.e50d3238b247c83a68bd.png",
     "static/media/project4.png": "/website/static/media/project4.6ee1306767cbfb0e3490.png",
     "static/media/project2.png": "/website/static/media/project2.614c4031184fcfd023ca.png",
@@ -11,6 +10,7 @@
     "static/media/project9.png": "/website/static/media/project9.adf473d39283a2638d5e.png",
     "static/media/project10.png": "/website/static/media/project10.c6d854f3a65822ef74f6.png",
     "static/media/project1.png": "/website/static/media/project1.e0be74ac8eb65dbb2648.png",
+    "static/media/proyectoCuentas.exe": "/website/static/media/proyectoCuentas.72ccc11a6c9c59d47fd6.exe",
     "static/media/project3.png": "/website/static/media/project3.771e8c69bfa29793050c.png",
     "static/media/project5.png": "/website/static/media/project5.b08eb87db03ce9a61d88.png",
     "static/media/me.png": "/website/static/media/me.4f94ccf905352d92c0b9.png",
@@ -18,10 +18,10 @@
     "static/media/project8.png": "/website/static/media/project8.873d0d89421ba51c9e67.png",
     "index.html": "/website/index.html",
     "main.fb7eb8e4.css.map": "/website/static/css/main.fb7eb8e4.css.map",
-    "main.15431277.js.map": "/website/static/js/main.15431277.js.map"
+    "main.813fdd64.js.map": "/website/static/js/main.813fdd64.js.map"
   },
   "entrypoints": [
     "static/css/main.fb7eb8e4.css",
-    "static/js/main.15431277.js"
+    "static/js/main.813fdd64.js"
   ]
 }
