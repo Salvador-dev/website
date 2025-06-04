@@ -1,7 +1,7 @@
 {
     "header": {
         "hello": "Hello i'm",
-        "i-am": "Frontend Developer",
+        "i-am": "Systems Engineer",
         "scroll": "Scroll Down",
         "cv": "Download CV",
         "talk": "Let's Talk",
@@ -18,7 +18,7 @@
         "wrldw": "10+ worldwide",
         "prj": "Projects",
         "proj": "10+ completed",
-        "p": "Hey, what's up? I am a Systems Engineering student at the Santa María University, I am also a programmer and web developer specialized in the Frontend area. Currently I do projects as a freelancer.",
+        "p": "Hi there! I am a systems engineer and full stack developer in Caracas, Venezuela. Currently i do work in all kind of software projects as a freelancer, as i like to take technological challenges to help you grow professionally.",
         "talk": "Let's Talk"
     },
 
@@ -98,7 +98,9 @@
         "pro10": "Medical shop landing page",
         "pro11": "Accounting system in C language",
         "pro12": "Slot machine simulator in C language",
-        "pro13": "Sudoku game in C language"
+        "pro13": "Sudoku game in C language",
+        "pro14": "Meditations web app",
+        "pro15": "Raffles web page"
 
     },
 

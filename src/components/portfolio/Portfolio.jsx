@@ -14,10 +14,8 @@ import IMG10 from '../../assets/project10.png'
 import IMG11 from '../../assets/project11.png'
 import IMG12 from '../../assets/project12.png'
 import IMG13 from '../../assets/project13.png'
-
-
-
-
+import IMG14 from '../../assets/project14.png'
+import IMG15 from '../../assets/project15.png'
 
 
 const Portfolio = () => {
@@ -142,7 +140,24 @@ const Portfolio = () => {
     apk: '',
     demo: 'https://asclemedical.com/',
     exe: ''
-
+  },
+  {
+    id: 11,
+    image: IMG14,
+    title: t("portfolio.pro14"),
+    github: '',
+    apk: '',
+    demo: 'https://app.jorgepellicer.es',
+    exe: ''
+  },
+  {
+    id: 12,
+    image: IMG15,
+    title: t("portfolio.pro15"),
+    github: '',
+    apk: '',
+    demo: 'https://premiosvipvzla.com',
+    exe: ''
   }
 ]
 

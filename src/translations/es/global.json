@@ -1,7 +1,7 @@
 {
     "header": {
         "hello": "Hola, soy",
-        "i-am": "Desarrollador frontend",
+        "i-am": "Ingeniero de Sistemas",
         "scroll": "Ir hacia abajo",
         "cv": "Descargar CV",
         "talk": "Hablemos",
@@ -13,19 +13,19 @@
         "h5": "Conoce más",
         "h2": "Sobre mí",
         "exp": "Experiencia",
-        "work": "3 años trabajando",
+        "work": "4 años trabajando",
         "clients": "Clientes",
         "wrldw": "10+ internacionales",
         "prj": "Proyectos",
         "proj": "10+ completados",
-        "p": "¿Que tal? Soy estudiante de Ingeniería de sistemas en la Universidad Santa María, también soy programador y desarrollador web especializado en el área Frontend. Actualmente realizo proyectos como freelancer. ",
+        "p": "Hola! soy ingeniero de sistemas y desarrollador full stack en Caracas, Venezuela. Actualmente realizo todo tipo de proyectos de software como freelancer, ya que me gusta afrontar retos tecnológicos para ayudarte a crecer profesionalmente.",
         "talk": "Hablemos"
     },
 
     "experience": {
         "h5": "Qué habilidades tengo",
         "h2": "Mi experiencia",
-        "front": "Desarrollo Web Frontend",
+        "front": "Desarrollo Web",
         "html": "Avanzado",
         "css": "Avanzado",
         "js": "Intermedio",
@@ -99,7 +99,9 @@
         "pro10": "Landing page para tienda de insumos médicos",
         "pro11": "Sistema contable en lenguaje C",
         "pro12": "Simulador de maquina tragamonedas en lenguaje C",
-        "pro13": "Juego de sudoku en lenguaje C"
+        "pro13": "Juego de sudoku en lenguaje C",
+        "pro14": "App web de contenido de meditaciones",
+        "pro15": "Pagina web para jugar rifas"
 
     },
 
